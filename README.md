@@ -4,4 +4,4 @@
      2 - click outside the model box
      3 - click escape button in keyboard.
      
-     # its tiny projects come in revision javascript with jonas javascript repositoriy :coffe:.
+     # its tiny projects come in revision javascript with jonas javascript repository.
